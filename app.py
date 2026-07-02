@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Đồ thị giá 3 cổ phiếu", layout="wide")
 
-st.title("📈 Ứng dụng vẽ đồ thị giá của 3 cổ phiếu theo thời gian")
+st.title("📈 Ứng dụng vẽ đồ thị giá của 3 cổ phiếu theo thời gian- đề tài nhóm 8")
 
 st.sidebar.header("Nhập thông tin")
 
